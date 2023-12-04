@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Marco Silvera and I'm a computer engineering student at the Federico Villarreal National University , i ma from  Perú 🇵🇪....</h2>
 
 ###
 
