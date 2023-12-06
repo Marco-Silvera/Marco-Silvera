@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marco Silvera and I'm a computer engineering student at the Federico Villarreal National University , i ma from  Perú 🇵🇪....</h2>
+er<h2 align="left">Hi 👋! My name is Marco Silvera and I'm a computer engineering student at the Federico Villarreal National University , i ma from  Perú 🇵🇪....</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
