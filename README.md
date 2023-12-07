@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Marco Silvera and I am a Computer Engineering student, specialized in front-end web development , i am from  Perú 🇵🇪....</h2>
-
+<h2 align="center">Hi 👋! My name is Marco Silvera and I am a Computer Engineering student<br> specialized in front-end web development , i am from  Perú <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png" width="18"/></h2>
+<svg></svg>
 ###
 
 <div align="center">
