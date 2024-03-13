@@ -39,6 +39,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Marco-Silvera/marco-silvera/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Marco-Silvera/marco-silvera/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+![snake gif](https://github.com/Marco-Silvera/Marco-Silvera/blob/output/github-contribution-grid-snake.svg)
