@@ -1,8 +1,10 @@
 <!--GIF-->
 ![MarioProgramming](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
+
 <!--Text-->
 <h2 align="center">Hi 👋! My name is Marco Silvera and I am a Computer Engineering student<br> specialized in front-end web development , i am from  Perú <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png" width="18"/></h2>
+
 
 <!--Profile Views-->
 <p align="left">
@@ -11,14 +13,17 @@
 
 
 <!--Stats-->
-<div align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-silvera&show_icons=true&locale=en&theme=dark" alt="marco-silvera" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-silvera&theme=dark" alt="marco-silvera" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&theme=dark&card_width=" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marco-Silvera&radius=16&theme=high-contrast&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marco-Silvera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marco-Silvera&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 <!--Skills-->
 <h2 align="center">Skills</h2>
+
 
 <!--Frontend-->
 <h4 align="center">Frontend</h4>
@@ -27,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" alt="Skills">
   </a>
 </p>
+
 
 <!--Extras-->
 <h4 align="center">Extras</h4>
