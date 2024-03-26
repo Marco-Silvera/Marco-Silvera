@@ -5,13 +5,18 @@
 <h2 align="center">Hi 👋! My name is Marco Silvera and I am a Computer Engineering student<br> specialized in front-end web development , i am from  Perú <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1280px-Flag_of_Peru.svg.png" width="18"/></h2>
 
 <!--Profile Views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marco-Silvera&label=Profile%20views&color=brightgreen&style=flat" alt="marco-silvera" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Marco-Silvera&label=Profile%20views&color=brightgreen&style=flat" alt="marco-silvera" />
+</p>
 
-<!--Most Used Languages-->
-<div align="center">
+
+<!--Stats-->
+<div align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-silvera&show_icons=true&locale=en&theme=dark" alt="marco-silvera" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco-silvera&theme=dark" alt="marco-silvera" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&theme=dark&card_width=" height="150" alt="languages graph"  />
 </div>
- 
+
 <!--Skills-->
 <h2 align="center">Skills</h2>
 
