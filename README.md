@@ -18,14 +18,14 @@
 <h4 align="center">Frontend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" alt="Skills">
   </a>
 </p>
 
 <h4 align="center">Extras</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,figma,git,github,markdown,vscode,discord" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=python,figma,git,github,markdown,vscode,discord,gmail" alt="Skills">
   </a>
 </p>
 
@@ -33,9 +33,9 @@
 
 <div>
   <h2>Contact with me:</h2>
-  <a href="https://www.linkedin.com/in/marcosilvera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-patel-51338a245" height="30" width="40" /></a>
- <a href="https://www.instagram.com/marko_silvera?igsh=MTRjbXJobzZmYjRscw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marko_silvera" height="30" width="40" /></a>
-  <a href="mailto:msilveradev@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-msilveradev%40gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white&color=blue">
-</a>
+  
+  <a href="https://www.linkedin.com/in/marcosilvera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-patel-51338a245"  height="48" width="48"/></a>
+ <a href="https://www.instagram.com/marko_silvera?igsh=MTRjbXJobzZmYjRscw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marko_silvera"  height="48" width="48"/></a>
+  <a href="mailto:msilveradev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="marko_silvera"/></a>
+
 </div>
