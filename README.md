@@ -9,7 +9,7 @@
 
 <!--Most Used Languages-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&card_width=" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Silvera&locale=en&hide_title=false&layout=compact&theme=dark&card_width=" height="150" alt="languages graph"  />
 </div>
  
 <!--Skills-->
