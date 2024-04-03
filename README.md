@@ -20,6 +20,10 @@
   <img src="https://streak-stats.demolab.com?user=Marco-Silvera&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
+<!--
+stats vertical
+https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Marco-Silvera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10
+-->
 
 <!--Skills-->
 <h2 align="center">Skills</h2>
