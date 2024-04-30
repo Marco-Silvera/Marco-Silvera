@@ -42,7 +42,7 @@ https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Marc
 <h4 align="center">Extras</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,figma,git,github,markdown,vscode,discord,gmail" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=python,figma,git,github,markdown,vscode,discord" alt="Skills">
   </a>
 </p>
 
