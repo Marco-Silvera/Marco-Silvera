@@ -33,7 +33,7 @@ https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Marc
 <h4 align="center">Frontend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,astro" alt="Skills">
   </a>
 </p>
 
